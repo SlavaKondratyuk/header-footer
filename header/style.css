@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+h2 {
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+.header {
+    height: 60px;
+    width: 100%;
+    background-color: rgb(22, 160, 133);
+    border: 1px solid rgb(41, 128, 185);
+    position: fixed;
+    z-index: 1;
+}
+
+.container {
+    border: 1px solid rgb(41, 128, 185);
+    width: 70%;
+    position: absolute;
+    top: 80px;
+    margin-left: 15%;
+    padding: 10px 40px 0 40px
+}

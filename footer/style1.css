@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: darkseagreen;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    height: 60px;
+    width: 100%;
+    background-color: darkseagreen;
+    border-top: 1px solid black;
+    text-align: center;
+    color: green;
+    padding-top: 20px;
+}
+
+.container {
+    border: 1px solid rgb(41, 128, 185);
+    border-radius: 30px;
+    width: 70%;
+    position: absolute;
+    top: 20px;
+    margin-left: 15%;
+    padding: 15px 40px 50px 40px;
+}
